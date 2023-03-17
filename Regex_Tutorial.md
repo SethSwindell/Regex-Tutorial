@@ -67,4 +67,4 @@ Back-referencing allows you to match a previously matched group. In this regex, 
 ### Look-ahead and Look-behind
 Look-ahead and look-behind are used to match an expression only if it is followed or preceded by another expression. In this regex, there are no look-ahead or look-behind expressions used.
 ### Author
-This tutorial was written by Seth Swindell.
+This tutorial was written by Seth Swindell. https://github.com/SethSwindell
